@@ -1,0 +1,56 @@
+nav li, nav a {
+    font-family: "Signika", sans-serif;
+    font-weight: 400;
+    font-size: 20px;
+    color: #fcfcfc;
+    text-decoration: none;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 30px 10%;
+    background-color: #007194;
+    border-bottom: 20px solid #fcfcfc;
+}
+
+footer {
+    position: bottom;
+    bottom: 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 30px 10%;
+    background-color: #007194;
+    width: 100%;
+}
+
+.logo {
+    cursor: pointer;
+}
+
+.nav-links {
+    list-style: none;
+    background-color: #007194;
+}
+
+.nav-links li {
+    display: inline-block;
+    padding: 0 20px;
+    background-color: #007194;
+}
+
+.nav-links li a {
+    transition: all 0.3s ease 0s;
+    background-color: #007194;
+}
+
+.nav-links li a:hover {
+    color: #FF9021;
+    background-color: #007194;
+}
+
+.cta {
+    background-color: #007194;
+}
