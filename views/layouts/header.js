@@ -7,7 +7,7 @@ class Header extends HTMLElement
     connectedCallback() {
         this.innerHTML = `
         <header>
-            <a href="https://jharp949.github.io/personal-portfolio/"><img class="logo" src="https://jharp949.github.io/personal-portfolio/public/images/logo.png" alt="logo"></a>
+            <a href="https://jharp949.github.io/personal-portfolio/"><img class="logo" src="./public/images/logo.png" alt="logo"></a>
             <nav>
                 <ul class="nav-links">
                     <li><a href="https://jharp949.github.io/personal-portfolio/">Home</a></li>
