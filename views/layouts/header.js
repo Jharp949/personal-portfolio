@@ -14,6 +14,7 @@ class Header extends HTMLElement
                     <li><a href="https://jharp949.github.io/personal-portfolio/views/about.html">About</a></li>
                     <li><a href="https://jharp949.github.io/personal-portfolio/views/projects.html">Projects</a></li>
                     <li><a href="https://jharp949.github.io/personal-portfolio/views/resume.html">Resume</a></li>
+                    <li><a href="https://jharp949.github.io/personal-portfolio/views/resume.html">ORDs</a></li>
                 </ul>
             </nav>
         </header>
