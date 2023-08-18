@@ -1,0 +1,43 @@
+//NodeShopper
+{
+    "customer": {
+        "_id": "5a729cc112",
+        "firstName": "George",
+        "lastName": "Franks",
+        "dateOfBirth": "06/12/1977",
+        "username": "frankyz334",
+        "invoice": {
+            "_id": "770013226",
+            "createDate": "05/07/2023",
+            "shipDate": "05/08/2023",
+            "subtotal": "$239.45",
+            "lineItem": {
+                "_id": "9902214",
+                "productName": "Transmission Fluid",
+                "price": "$29.93",
+                "qty": "8"
+            }
+        }
+    },
+
+//NodeTech
+
+    "student": {
+        "studentId": "0099112",
+        "firstName": "Stacy",
+        "lastName": "Pringle",
+        "enrollment": {
+            "term": "Fall",
+            "gpa": "3.4",
+            "startDate": "09/21/2023",
+            "endDate": "11/15/2023",
+            "course": {
+                "coursed": "Biology",
+                "description": "Life Sciences 120 - Cells, Tissues, and Organs",
+                "instructor": "Dr. Susan Goalde",
+                "score": "432",
+                "letterGrade": "A"
+            }
+        }
+    }
+}
